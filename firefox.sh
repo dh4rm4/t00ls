@@ -1,0 +1,1 @@
+rm -rf /Users/kboddez/Library/Application\ Support/Firefox  && rm -rf /Users/kboddez/Library/Application\ Support/Mozilla
